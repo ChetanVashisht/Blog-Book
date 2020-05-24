@@ -1,0 +1,12 @@
+emailing/credentials.json
+emailing/node_modules
+emailing/package-lock.json
+**/*.html
+**/*.mobi
+Wallpapers/
+**/token.json
+.vscode/
+.DS_Store
+outputs/
+**/*.jpg
+**/*.png
